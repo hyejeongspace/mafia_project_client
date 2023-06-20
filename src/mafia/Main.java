@@ -21,7 +21,7 @@ public class Main extends Application {
 //			});
 			loginController.setJoinStage(primaryStage);
 			primaryStage.show();
-			System.out.println("혜정이 팀장님 저는 규동이에요");
+			System.out.println("이제 집에 갑시다~!");
 		} catch(Exception e) {
 			e.printStackTrace();
 		}
